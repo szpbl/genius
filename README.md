@@ -2,7 +2,7 @@
 
 ## Sobre a aplicação
 
-Seguindo os vídeos do projeto "Criando seu jogo de memória estilo Genius", disponível na plataforma DIO, recriei o jogo da memória. Tentei fazer algumas alterações logo de cara, como a exibição da rodada atual, bem como do placar na tela acima do jogo. 
+Seguindo os vídeos do projeto "Criando seu jogo de memória estilo Genius", disponível na plataforma DIO, recriei o jogo da memória. Tentei fazer algumas alterações logo de cara, como a exibição da rodada atual, bem como do placar na tela acima do jogo. Separei a marcação da rodada e da pontuação, criando um sistema que aumenta a pontuação ganhada por rodada. 
 
 Implementações:
 
