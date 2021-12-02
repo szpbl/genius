@@ -4,11 +4,13 @@
 
 Seguindo os vídeos do projeto "Criando seu jogo de memória estilo Genius", disponível na plataforma DIO, recriei o jogo da memória. Tentei fazer algumas alterações logo de cara, como a exibição da rodada atual, bem como do placar na tela acima do jogo. 
 
-Ainda pretendo implantar:
+Implementações:
 
-[] - Botão para iniciar rodada
-[] - Botão para reiniciar jogo
-[] - Atualização do layout da página
+- [x] Rodada atual
+- [x] Pontuação em tela
+- [ ] Botão para iniciar rodada
+- [ ] Botão para reiniciar jogo
+- [ ] Atualização do layout da página
 
 A aplicação pode ser acessada [clicando aqui](https://geniusplay.netlify.app/).
 
