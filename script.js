@@ -13,6 +13,7 @@ const green = document.querySelector('.green');
 const red = document.querySelector('.red');
 const yellow = document.querySelector('.yellow');
 const roundMenu = document.querySelector('.round');
+const scoreMenu = document.querySelector('.score');
 
 //Cria ordem aleatória de cores
 let shuffleOrder = () => {
@@ -48,6 +49,7 @@ let checkOrder = () =>  {
     }
     if(clickedOrder.length == order.length) {
         score = score + (round * 10);
+        scoreMenu.textContent = score;
         alert(`Pontuação: ${score}\nVocê acertou! Iniciando próximo nível!`);
         nextLevel();
     }
