@@ -8,6 +8,7 @@ Implementações:
 
 - [x] Rodada atual
 - [x] Pontuação em tela
+- [x] Responsividade
 - [ ] Botão para iniciar rodada
 - [ ] Botão para reiniciar jogo
 - [ ] Atualização do layout da página

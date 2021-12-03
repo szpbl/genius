@@ -1,0 +1,33 @@
+@media screen and (max-width:700px){
+
+    h1 {
+        font-size: 40px;
+    }
+
+    p {
+        font-size: 20px;
+    }
+    
+    .genius {
+        width: 300px;
+        height: 300px;
+    }
+
+}
+
+@media screen and (min-width:1000px) and (max-width:1300px) {
+
+    h1 {
+        font-size: 80px;
+    }
+
+    p {
+        font-size: 50px;
+    }
+
+    .genius {
+        width: 600px;
+        height: 600px;
+    }  
+
+}
